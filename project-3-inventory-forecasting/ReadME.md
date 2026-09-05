@@ -35,7 +35,8 @@ Separately, the Risk Tier breakdown shows a genuinely two-sided risk profile: 32
 | Correlation: current stock vs. reorder point | r = -0.42 |
 
 
-<img width="1142" height="823" alt="Inventory Risk   Forecast Dashboar" src="https://github.com/user-attachments/assets/8550d008-15ba-4ac7-bc67-b5b5c216204c" />
+<img width="1142" height="823" alt="dashboard-screenshot" src="https://github.com/user-attachments/assets/47ee0609-d61c-4fc2-9ee0-e90318593fba" />
+
 
 
 
